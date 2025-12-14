@@ -82,5 +82,4 @@ In simple words, in the PCA space the model sees the languages as the same.
 
 
 
-"# Semantic-Generalization-of-Bhojpuri-and-Magahi-in-MuRIL" 
-"# Semantic-Generalization-of-Bhojpuri-and-Magahi-in-MuRIL" 
+
